@@ -1,135 +1,220 @@
 links:
-  - name: DeepMind’s work in 2016: a round-up
+  - name: "WebVR Experiments"
+    url: https://www.webvrexperiments.com/
+    date: 2017-04-12
+
+  - name: "The Future of Free Speech, Trolls, Anonymity and Fake News Online"
+    url: http://assets.pewresearch.org/wp-content/uploads/sites/14/2017/03/28162208/PI_2017.03.29_Social-Climate_FINAL.pdf
+    date: 2017-03-29
+
+  - name: "Inside the Hunt for Russia's Most Notorious Hacker"
+    url: https://www.wired.com/2017/03/russian-hacker-spy-botnet/
+    date: 2017-03-21
+
+  - name: "Hardcore History: The Destroyer of Worlds"
+    url: http://www.dancarlin.com/hardcore-history-59-the-destroyer-of-worlds/
+    date: 2017-01-24
+
+  - name: "Stanford historian uncovers a grim correlation between violence and inequality over the millennia"
+    url: http://news.stanford.edu/2017/01/24/stanford-historian-uncovers-grim-correlation-violence-inequality-millennia/
+    date: 2017-01-24
+
+  - name: "The Infrastructure Behind Twitter: Scale"
+    url: https://blog.twitter.com/2017/the-infrastructure-behind-twitter-scale
+    date: 2017-01-19
+
+  - name: "Who is Anna-Senpai, the Mirai Worm Author?"
+    url: https://krebsonsecurity.com/2017/01/who-is-anna-senpai-the-mirai-worm-author/
+    date: 2017-01-17
+
+  - name: "DeepMind's work in 2016: a round-up"
     url: https://deepmind.com/blog/deepmind-round-up-2016/
     date: 2017-01-03
-  - name: Making Humans a Multiplanetary Species
+
+  - name: "Elon Musk: Making Humans a Multiplanetary Species"
     url: https://www.youtube.com/watch?v=H7Uyfqi_TE8
     date: 2016-09-27
-  - name: Hackers Remotely Kill a Jeep on the Highway—With Me in It
+
+  - name: "Hackers Remotely Kill a Jeep on the Highway&mdash;With Me in It"
     url: https://www.wired.com/2015/07/hackers-remotely-kill-jeep-highway/
     date: 2015-07-21
-  - name: NASA’s New Horizons Spacecraft Sends Signal From Pluto to Earth
+
+  - name: "NASA's New Horizons Spacecraft Sends Signal From Pluto to Earth"
     url: http://www.nytimes.com/2015/07/15/science/space/nasa-new-horizons-spacecraft-reaches-pluto.html
     date: 2015-07-14
-  - name: The Chernobyl Story
+
+  - name: "The Chernobyl Story"
     url: http://imgur.com/a/TwY6q
     date: 2015-02-27
-  - name: 1177 BC: The Year Civilization Collapsed
+
+  - name: "1177 BC: The Year Civilization Collapsed"
     url: https://www.youtube.com/watch?v=hyry8mgXiTk
     date: 2015-02-25
-  - name: 100,000 stars
+
+  - name: "100,000 stars"
     url: http://stars.chromeexperiments.com/
     date: 2014-08-06
-  - name: Bitcoin vs. Political Power: The Cryptocurrency Revolution
+
+  - name: "Bitcoin vs. Political Power: The Cryptocurrency Revolution"
     url: https://www.youtube.com/watch?v=joITmEr4SjY
     date: 2014-04-25
-  - name: Why the West Rules - For Now
+
+  - name: "Why the West Rules&mdash;For Now"
     url: https://www.youtube.com/watch?v=wnqS7G3LmMo
     date: 2013-10-02
-  - name: Edward Snowden: the whistleblower behind the NSA surveillance revelations
+
+  - name: "Edward Snowden: the whistleblower behind the NSA surveillance revelations"
     url: https://www.theguardian.com/world/2013/jun/09/edward-snowden-nsa-whistleblower-surveillance
     date: 2013-06-09
-  - name: 1.8 gigapixel ARGUS-IS. World's highest resolution video surveillance platform by DARPA
+
+  - name: "1.8 gigapixel ARGUS-IS. World's highest resolution video surveillance platform by DARPA"
     url: https://www.youtube.com/watch?v=QGxNyaXfJsA
     date: 2013-01-27
-  - name: Multi-Angle: Grasshopper 12-Story Test Flight
+
+  - name: "Multi-Angle: Grasshopper 12-Story Test Flight"
     url: https://www.youtube.com/watch?v=B4PEXLODw9c
     date: 2012-12-17
-  - name: Electronic contact lens displays pixels on the eyes
+
+  - name: "Electronic contact lens displays pixels on the eyes"
     url: https://www.newscientist.com/blogs/onepercent/2011/11/electronic-contact-lens-displa.html
     date: 2011-11-22
-  - name: 1 Million Robots To Replace 1 Million Human Jobs At Foxconn? First Robots Have Arrived.
+
+  - name: "1 Million Robots To Replace 1 Million Human Jobs At Foxconn? First Robots Have Arrived."
     url: https://singularityhub.com/2012/11/12/1-million-robots-to-replace-1-million-human-jobs-at-foxconn-first-robots-have-arrived/
     date: 2012-11-12
-  - name: Elon Musk's Mission to Mars
+
+  - name: "Elon Musk's Mission to Mars"
     url: https://www.wired.com/2012/10/ff-elon-musk-qa/
     date: 2012-10-21
-  - name: Harvard cracks DNA storage, crams 700 terabytes of data into a single gram
+
+  - name: "Harvard cracks DNA storage, crams 700 terabytes of data into a single gram"
     url: http://www.extremetech.com/extreme/134672-harvard-cracks-dna-storage-crams-700-terabytes-of-data-into-a-single-gram
     date: 2012-08-17
-  - name: Digital pills make their way to market
+
+  - name: "Digital pills make their way to market"
     url: http://blogs.nature.com/news/2012/07/digital-pills-make-their-way-to-market.html
     date: 2012-07-30
-  - name: WTF flat ground tricks (1000 fps slow motion)
+
+  - name: "WTF flat ground tricks (1000 fps slow motion)"
     url: https://www.youtube.com/watch?v=aHrn3-Cb3iM
     date: 2012-05-22
-  - name: First gene therapy successful against aging-associated decline: Mouse lifespan extended up to 24% with a single treatment
+
+  - name: "First gene therapy successful against aging-associated decline: Mouse lifespan extended up to 24% with a single treatment"
     url: https://www.sciencedaily.com/releases/2012/05/120514204050.htm
     date: 2012-05-14
-  - name: Strange Organism Has Unique Roots in the Tree of Life
+
+  - name: "Strange Organism Has Unique Roots in the Tree of Life"
     url: http://www.livescience.com/19955-ancient-protist-kingdom.html
     date: 2012-04-29
-  - name: Black-Scholes: The maths formula linked to the financial crash
+
+  - name: "Black-Scholes: The maths formula linked to the financial crash"
     url: http://www.bbc.com/news/magazine-17866646
     date: 2012-04-28
-  - name: Planetary Resources Webcast
+
+  - name: "Planetary Resources Webcast"
     url: https://www.youtube.com/watch?v=t0c9oZh4vTo
     date: 2012-04-24
-  - name: Google Art Project
+
+  - name: "Google Art Project"
     url: https://www.google.com/culturalinstitute/beta/
     date: 2012-04-10
-  - name: Wipeout Nominees – Billabong XXL Big Wave Awards 2012
+
+  - name: "Wipeout Nominees – Billabong XXL Big Wave Awards 2012"
     url: https://www.youtube.com/watch?v=k2J1Sj3TRHQ
     date: 2012-04-09
-  - name: Riding the Booster with enhanced sound
+
+  - name: "Riding the Booster with enhanced sound"
     url: https://www.youtube.com/watch?v=2aCOyOvOw5c
     date: 2012-03-15
-  - name: Russians resurrect 30,000-year-old frozen flower
+
+  - name: "Russians resurrect 30,000-year-old frozen flower"
     url: http://www.foxnews.com/tech/2012/02/21/russians-resurrect-30000-year-old-frozen-flower.html
     date: 2012-02-21
-  - name: The Scale of the Universe 2
+
+  - name: "The Scale of the Universe 2"
     url: http://www.htwins.net/scale2/
     date: 2012-02-10
-  - name: Sheila Nirenberg: A prosthetic eye to treat blindness
+
+  - name: "Sheila Nirenberg: A prosthetic eye to treat blindness"
     url: https://www.youtube.com/watch?v=Aa2JfigaNcs
     date: 2011-12-20
-  - name: Engineered Avian Flu Could Kill Half the World's Humans
+
+  - name: "Engineered Avian Flu Could Kill Half the World's Humans"
     url: http://gizmodo.com/5863078/engineered-avian-flu-could-kill-half-the-worlds-humans
     date: 2011-11-28
-  - name: All Alone in the Night - Time-lapse footage of the Earth as seen from the ISS
+
+  - name: "All Alone in the Night - Time-lapse footage of the Earth as seen from the ISS"
     url: https://www.youtube.com/watch?v=FG0fTKAqZ5g
     date: 2011-10-06
-  - name: Madeon - Pop Culture (Dance Video)
+
+  - name: "Madeon - Pop Culture (Dance Video)"
     url: https://www.youtube.com/watch?v=IxPbgnO81sQ
     date: 2011-08-30
-  - name: Evolution machine: Genetic engineering on fast forward
+
+  - name: "Evolution machine: Genetic engineering on fast forward"
     url: https://www.newscientist.com/article/mg21028181.700-evolution-machine-genetic-engineering-on-fast-forward/
     date: 2011-06-22
-  - name: Asteroid Discovery from 1980 - 2011
+
+  - name: "Asteroid Discovery from 1980 - 2011"
     url: https://www.youtube.com/watch?v=ONUSP23cmAE
     date: 2011-06-21
-  - name: Stuxnet: Anatomy of a Computer Virus
+
+  - name: "Stuxnet: Anatomy of a Computer Virus"
     url: https://www.youtube.com/watch?v=scNkLWV7jSw
     date: 2011-06-18
-  - name: ScienceCasts: Voyager
+
+  - name: "ScienceCasts: Voyager"
     url: https://www.youtube.com/watch?v=oFT68U4i-Xw
     date: 2011-04-28
-  - name: The most dangerous job in the world
+
+  - name: "The most dangerous job in the world"
     url: https://www.youtube.com/watch?v=gPvCuc1_mgM&t=1m20s
     date: 2010-09-16
-  - name: Mysterious 'Dark Flow' May Be Tug of Other Universe
+
+  - name: "Mysterious 'Dark Flow' May Be Tug of Other Universe"
     url: http://www.seeker.com/mysterious-dark-flow-may-be-tug-of-other-universe-1765035964.html
     date: 2010-03-18
-  - name: Marc Johnson - Fully Flared
+
+  - name: "On Influenza A (H1N1) - Comparison to Computer Viruses"
+    url: http://www.bunniestudios.com/blog/?p=353
+    date: 2009-06-21
+
+  - name: "Gin, Television, and Social Surplus"
+    url: http://web.archive.org/web/20080708220257/http://www.shirky.com/herecomeseverybody/2008/04/looking-for-the-mouse.html
+    date: 2008-04-26
+
+  - name: "Marc Johnson - Fully Flared"
     url: https://www.youtube.com/watch?v=ZwNF9gWwUac
     date: 2007-11-16
-  - name: Richard Feynman "Tiny Machines" Nanotechnology Lecture
+
+  - name: "Richard Feynman \"Tiny Machines\" Nanotechnology Lecture"
     url: https://www.youtube.com/watch?v=4eRCygdW--c
     date: 1984-10-25
-  - name: AT&T Archives: Viewtron Introduction, from the Viewdata Corporation
+
+  - name: "AT&T Archives: Viewtron Introduction, from the Viewdata Corporation"
     url: https://www.youtube.com/watch?v=o6DVBPmo4Co
     date: 1983-01-01
-  - name: Flintstones Cigarette Commercial
+
+  - name: "Flintstones Cigarette Commercial"
     url: https://www.youtube.com/watch?v=NAExoSozc2c
     date: 1961-01-01
+
 wikipedia:
-  - name: Conway's Game of Life
+  - name: "Conway's Game of Life"
     url: https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life
-  - name: Great Filter
+
+  - name: "Great Filter"
     url: https://en.wikipedia.org/wiki/Great_Filter
-  - name: Great Oxygenation Event
+
+  - name: "Great Oxygenation Event"
     url: https://en.wikipedia.org/wiki/Great_Oxygenation_Event
-  - name: Quantum entanglement
+
+  - name: "Quantum entanglement"
     url: https://en.wikipedia.org/wiki/Quantum_entanglement
-  - name: There's Plenty of Room at the Bottom
+
+  - name: "There's Plenty of Room at the Bottom"
     url: https://en.wikipedia.org/wiki/There's_Plenty_of_Room_at_the_Bottom
+
+books:
+  - name: "War! What Is It Good For?: Conflict and the Progress of Civilization from Primates to Robots"
+    url: https://www.amazon.com/War-What-Good-Conflict-Civilization/dp/0374286000

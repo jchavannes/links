@@ -1,0 +1,30 @@
+{{ template "header.html" . }}
+
+<div class="jumbotron">
+
+    <br/><br/><br/>
+
+    <div class="container">
+        <h3>Interesting web pages, articles, and more</h3>
+    </div>
+
+    <br/>
+
+    <div class="container links">
+        <ul>
+
+            {{ range $id, $link := .Links }}
+            <li>
+                <h4>{{ $link.Name }}</h4>
+                <p class="date">{{ $link.Date }}</p>
+                <p class="link"><a href="{{ $link.Url }}">{{ $link.Url }}</a></p>
+                <hr/>
+                <!-- <p><a href="how-to-win-friends-and-influence-people">How to Win Friends and Influence People</a></p> -->
+            </li>
+            {{ end }}
+        </ul>
+    </div>
+
+</div>
+
+{{ template "footer.html" . }}
