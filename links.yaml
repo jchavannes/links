@@ -1,4 +1,12 @@
 links:
+  - name: "The Future of Bitcoin - nChain (Craig Wright)"
+    url: https://www.youtube.com/watch?v=YAcOnvOVquo&t=8596
+    date: 2017-06-30
+
+  - name: "The Myth of a Superhuman AI"
+    url: https://www.wired.com/2017/04/the-myth-of-a-superhuman-ai/
+    date: 2017-04-25
+
   - name: "WebVR Experiments"
     url: https://www.webvrexperiments.com/
     date: 2017-04-12
@@ -31,6 +39,14 @@ links:
     url: https://deepmind.com/blog/deepmind-round-up-2016/
     date: 2017-01-03
 
+  - name: "Software Defined Emissions"
+    url: https://www.youtube.com/watch?v=7t4paclIwuU
+    date: 2016-12-27
+
+  - name: "Taking a Drone on Honeymoon - 400 Days Around the World"
+    url: https://www.youtube.com/watch?v=Y0Zq6Q2m-ig
+    date: 2016-11-03
+
   - name: "Elon Musk: Making Humans a Multiplanetary Species"
     url: https://www.youtube.com/watch?v=H7Uyfqi_TE8
     date: 2016-09-27
@@ -50,6 +66,10 @@ links:
   - name: "1177 BC: The Year Civilization Collapsed"
     url: https://www.youtube.com/watch?v=hyry8mgXiTk
     date: 2015-02-25
+
+  - name: "What was the first animal that evolved to have a brain or a brain-like structure?"
+    url: https://www.quora.com/What-was-the-first-animal-that-evolved-to-have-a-brain-or-a-brain-like-structure
+    date: 2014-11-05
 
   - name: "100,000 stars"
     url: http://stars.chromeexperiments.com/
